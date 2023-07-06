@@ -6,7 +6,7 @@ body{
 p{
     margin: 0;
 }
-section{
+main{
     margin-left: 18%;
 }
 .mv{
@@ -77,4 +77,17 @@ footer{
     font-weight: 400;
     line-height: normal; 
     margin-bottom: 5%;
+}
+
+
+.profilepicture{
+    background-color: #FF408C;
+    width: 56.5%;
+    
+    
+}
+
+.intro-contact-tool-profilepicture{
+    display: grid;
+    
 }
