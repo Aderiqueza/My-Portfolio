@@ -61,3 +61,20 @@ font-weight: 500;
 line-height: 132%;
 letter-spacing: -0.4px;
 }
+footer{
+    font-family: 'Inter', sans-serif;
+}
+.sm-handles{
+    text-align: center;
+    letter-spacing: 30px;
+    margin-bottom: 1.5%;
+}
+.copyright{
+    color: var(--dark, #21243D);
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    margin-bottom: 5%;
+}
