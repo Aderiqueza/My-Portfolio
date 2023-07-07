@@ -7,7 +7,7 @@ p{
     margin: 0;
 }
 main{
-    margin-left: 18%;
+    margin-left: 15%;
 }
 .mv{
     margin-top: 8%;
@@ -54,12 +54,11 @@ main{
 }
 .tool{
     color: #3A3A3A;
-font-family: Poppins;
-font-size: 20px;
-font-style: normal;
-font-weight: 500;
-line-height: 132%;
-letter-spacing: -0.4px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 132% ; 
+    letter-spacing: -0.4px;
 }
 footer{
     font-family: 'Inter', sans-serif;
@@ -79,15 +78,20 @@ footer{
     margin-bottom: 5%;
 }
 
+.profilepicture-container{
+    background-color: #FF408C;
+    background-image: url(Assets/shape.jpg);
+}
 
 .profilepicture{
     background-color: #FF408C;
-    width: 56.5%;
-    
+
+    margin-right: -2%;
+    width: 25.5%;
+    float: right;
     
 }
-
-.intro-contact-tool-profilepicture{
-    display: grid;
+section{
+    width: 100%;
     
 }
